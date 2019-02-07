@@ -15,5 +15,8 @@
 **Sketch:**   
 <img src="sketch.jpg" alt="sketch_image" width="600"/>  
 
+The raw data shown in Step 1 of the sketch above will be acquired from two fish gut microbial communities (one before and one after starvation).<sup>2</sup> These data will be formatted in a spreadsheet in which each community will have a list of Operational Taxonomic Units (OTUs/species) that are present. These taxonomic groups will be used in the calculation of the Jaccard index. 
+
 **References:**  
-1.	Kumar, R., Eipers, P., Little, RB., et al., 2014. Getting started with microbiome analysis: sample acquisition to bioinformatics. Current protocols in human genetics, 82(18), pp. 1-29. 
+1.	Kumar, R., Eipers, P., Little, RB., et al., 2014. Getting started with microbiome analysis: sample acquisition to bioinformatics. Current protocols in human genetics, 82(18), pp. 1-29.  
+2.	Xia, J.H., Lin, G., Fu, G.H., et al., 2014. The intestinal microbiome of fish under starvation. BMC genomics, 15(1), pp. 266.
