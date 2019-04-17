@@ -1,9 +1,16 @@
-Community 1
-456
-123
-769
-346
-881
-966
-798
-321
+Acetobacteraceae
+Brucellaceae
+Comamonadaceae
+Cryomorphaceae
+Cytophagaceae
+Erythrobacteraceae
+Flavobacteriaceae
+Gemmataceae
+Hyphomicrobiaceae
+Moraxellaceae
+Pirellulaceae
+Planctomycetaceae
+Pseudomonadaceae
+Rhodobacteraceae
+Saprospiraceae
+Xanthomonadaceae

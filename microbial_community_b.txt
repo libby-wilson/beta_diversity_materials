@@ -1,0 +1,12 @@
+Campylobacteraceae
+Clostridiaceae
+Comamonadaceae
+Enterobacteriaceae
+Halothiobacillaceae
+Helicobacteraceae
+Moraxellaceae
+Neisseriaceae
+Pseudomonadaceae
+Rhodobacteraceae
+Sphingomonadaceae
+Xanthomonadaceae
